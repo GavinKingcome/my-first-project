@@ -11,7 +11,4 @@ p {
 .text-center {
   text-align: center;
 } 
- The  styles.css  file is located in the  assets/css  directory. The  background.jpg  image is located in the  assets/images  directory. 
- The  background-color  property sets the background color of the body element to light gray. The  background-image  property sets the background image of the body element to  background.jpg . The  color  property sets the color of the  h2  element to orange red. The  font-weight  property sets the font weight of the  p  element to bold. The  text-align  property sets the text alignment of the  text-center  class to center. 
- The  styles.css  file is linked to the  index.html  file using the  <link>  tag. 
- <!DOCTYPE html>
+/* Removed invalid text content from the CSS file */
