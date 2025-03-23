@@ -41,3 +41,20 @@ GreatGoodOKBelow averageBad
  Previous
 Next 
 
+
+# New section to practice markdown skills
+
+1. Navigation
+2. About us
+3. Sign up
+4. Contact
+5. Footer
+
+## How to view the project
+- [View the deployed website](https://username.github.io/codingclub/)
+
+## Markdown practice
+|Building | a table | with markdown |
+|----------|---------|---------|
+_italic text_| **bold text** |
+
