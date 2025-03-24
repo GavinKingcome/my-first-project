@@ -1,14 +1,16 @@
 body {
-  background-color: lightgray;
+  /* background-color: lightgray; */
   background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h2 {
   color: orangered;
-} 
+}
 p {
   font-weight: bold;
 }
 .text-center {
   text-align: center;
-} 
+}
 /* Removed invalid text content from the CSS file */
